@@ -1,0 +1,51 @@
+<style>
+		
+			body {
+				background: black;
+				background: url("images/background_texture02.jpg");
+				color: orange;
+				font-size: 25px;
+				font-style: italic;
+			}
+
+			h1 {
+				text-align: center;
+				font-style: italic; 
+				font-family: fantasy;
+				font-size: 80px;
+			}
+
+			h2 {
+				text-align: center;
+				font-style: italic;
+			}
+
+			a {
+				color: yellow;
+			}
+
+
+			h3 {
+				font-size: 30px;
+				font-style: italic;
+			}
+
+			.column1 {
+  				float: none;
+  				width: 33.33%;
+ 				padding: 5px;
+			}
+
+			.column2 {
+  				float: none;
+  				width: 33.33%;
+ 				padding: 5px;
+			}
+
+			.column3 {
+  				float: inherit;
+  				width: 33.33%;
+ 				padding: 5px;
+			}
+
+</style>
